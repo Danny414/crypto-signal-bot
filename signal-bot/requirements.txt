@@ -1,0 +1,4 @@
+openai
+aiohttp
+feedparser
+python-telegram-bot
